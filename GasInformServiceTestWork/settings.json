@@ -1,0 +1,7 @@
+﻿{
+  "dogApiConfig": {
+    "DogApiLink": "https://dog.ceo/api/breeds/image/random",
+    "MediaTypeSettings": "application/json",
+    "RemovedLinkPart": "https://images.dog.ceo/breeds/"
+  }
+}
